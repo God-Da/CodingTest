@@ -49,3 +49,13 @@ rules:
   commit_policy: "1 DAY 1 COMMIT MINIMUM (Consistency > Intensity)"
   optimization: "O(N^2) -> O(N log N) / O(N) 개선 방안 모색"
   notion_archive: "Core Snippets & Map/Set/Stream/Math Cheatsheet Sync"
+
+## 🗂️ ARCHITECTURE
+Bash
+root@God-Da:~/CodingTest# tree -L 2
+.
+├── 📂 프로그래머스
+│   ├── ⚡ [Level 0] Core Syntax & Data Processing
+│   ├── ⚔️ [Level 1] Hash, Stack, Queue & Implementation
+│   └── 🔱 [Level 2] DFS, BFS & Dynamic Programming
+└── 📜 README.md
