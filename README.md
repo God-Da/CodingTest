@@ -1,80 +1,48 @@
 <div align="center">
+  <br>
+  <h1>⚡ CodingTest Lab</h1>
+  <p><b>Java Core Algorithms & Problem Solving Archive</b></p>
+  <p>백준허브를 통해 자동으로 기록되는 알고리즘 트레이닝 저장소입니다.</p>
 
-  <!-- 다이나믹 헤더 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=⚡%20GOD-DA'S%20ALGORITHM%20LAB&fontSize=34&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-  <!-- 타이핑 효과 문구 (한글 인코딩 완료) -->
-  <a href="https://github.com/God-Da/CodingTest">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Java+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%26+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8+%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C;%EB%A7%A4%EC%9D%BC+%ED%95%9C+%EB%AC%B8%EC%A0%9C%EC%94%A9%2C+%EA%BE%B8%EC%A4%80%ED%95%9C+%EA%B8%B0%EB%A1%9D%EA%B3%BC+%EC%84%B1%EC%9E%A5" alt="Typing SVG" />
-  </a>
-
-  <!-- 방문자 수 카운터 (Hits 배지) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=God-Da-CodingTest&color=00f2fe&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
-</p>
-
-  <!-- 키보드 타자 치는 Bongo Cat (Giphy 직링크) -->
-  <p align="center">
-    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="180" alt="Coding Cat"/>
+  <p>
+    <img src="https://img.shields.io/badge/Java-17%2B-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Programmers-Lv.0_%7E_Lv.2-000000?style=flat-square&logo=codewars&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
   </p>
 
-  <!-- 테크 뱃지 -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Programmers-1E2A38?style=for-the-badge&logo=codewars&logoColor=00F2FE"/>
-    <img src="https://img.shields.io/badge/BaekjoonHub-000000?style=for-the-badge&logo=github&logoColor=00F2FE"/>
-  </p>
+  <br>
 
-  <!-- 네온 레이저 라인 디바이더 -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <!-- 미니멀 깃허브 스트릭 (심플한 다크 모드) -->
+  <img src="https://streak-stats.demolab.com?user=God-Da&theme=dark&hide_border=true&border_radius=10&background=00000000" alt="Streak" width="450"/>
 
   <br><br>
-
-  <!-- 듀얼 네온 대시보드 (스트릭 & 활동 통계) -->
-  <h3>📊 Activity & Streak Matrix</h3>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=God-Da&theme=tokyonight&hide_border=false&border_radius=8&background=0D1117&border=00F2FE&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" width="48%" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=God-Da&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&bg_color=0D1117&border_color=00F2FE&icon_color=00F2FE&title_color=00F2FE&text_color=FFFFFF" width="48%" />
-  </p>
-
-  <!-- 시안 블루 잔디밭 -->
-  <p align="center">
-    <img src="https://ghchart.rshah.org/00F2FE/God-Da" alt="God-Da's Commit Matrix" width="97%" />
-  </p>
-
 </div>
 
-<br>
+---
 
-## 🎯 풀이 원칙 & 학습 루틴
+### 🎯 Principles
 
-* ⏱️ **30분 집중 룰:** 30분 이상 고민해도 풀리지 않는 문제는 해설과 다른 사람의 풀이를 분석하여 내 것으로 흡수합니다.
-* 🌿 **1일 1커밋:** 최소 하루 한 문제 이상 풀이하여 꾸준한 코딩 감각을 유지합니다.
-* 📝 **노션 치트시트 연동:** 풀이 중 새로 알게 된 자바 표준 메서드 및 라이브러리 스니펫은 노션에 즉시 정리합니다.
-* ⚡ **풀이 최적화:** 정답 판정 후에도 시간 복잡도 개선이나 더 간결한 코드가 가능한지 점검합니다.
-
-<br>
-
-## 🗂️ 커리큘럼 & 구조
-
-| 단계 | 레벨 | 주요 학습 내용 |
-| :---: | :--- | :--- |
-| **01** | **Level 0** | 자바 기초 문법, 문자열/배열 다루기, 코딩 기초 트레이닝 |
-| **02** | **Level 1** | 해시(Hash), 스택/큐, 정렬, 기본 완전탐색 |
-| **03** | **Level 2** | DFS / BFS, 탐욕법(Greedy), 동적계획법(DP) |
+- **30-Min Timebox** : 30분 이상 풀이 방향이 잡히지 않을 경우 해설 분석 및 코드 패턴 학습
+- **Daily Routine** : 하루 최소 1문제 이상 풀이를 통한 자바 자료구조/문법 감각 유지
+- **Knowledge Base** : 새로 습득한 API 및 최적화 기법은 노션 치트시트에 지속 누적
+- **Clean Code** : 단순 통과에 그치지 않고 시간 복잡도($O(N)$) 및 가독성 개선 검토
 
 <br>
 
-## 🔗 바로가기
+### 🗂️ Curriculum
 
-<div align="center">
-  <a href="https://school.programmers.co.kr/">
-    <img src="https://img.shields.io/badge/Programmers_프로필-1E2A38?style=for-the-badge&logo=codewars&logoColor=00F2FE"/>
-  </a>
+| Level | Topic | Status |
+| :---: | :--- | :---: |
+| **Lv. 0** | 기초 문법, 문자열/배열 핸들링, 기본 수학 | `진행 중` |
+| **Lv. 1** | Hash, Stack/Queue, 정렬, 기초 완전탐색 | `대기` |
+| **Lv. 2** | DFS/BFS, Greedy, Brute-Force | `대기` |
+
+<br>
+
+### 🔗 Profile
+
+<p align="center">
+  <a href="https://school.programmers.co.kr/"><img src="https://img.shields.io/badge/Programmers-1E2A38?style=for-the-badge&logo=codewars&logoColor=white"/></a>
   &nbsp;
-  <a href="https://github.com/God-Da">
-    <img src="https://img.shields.io/badge/GitHub_프로필-000000?style=for-the-badge&logo=github&logoColor=00F2FE"/>
-  </a>
-</div>
-
-<br>
+  <a href="https://github.com/God-Da"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
