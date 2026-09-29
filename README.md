@@ -3,9 +3,9 @@
   <!-- 다이나믹 헤더 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=⚡%20GOD-DA'S%20ALGORITHM%20LAB&fontSize=34&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-  <!-- 타이핑 효과 문구 -->
+  <!-- 타이핑 효과 문구 (한글 인코딩 완료) -->
   <a href="https://github.com/God-Da/CodingTest">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Java+알고리즘+%26+코딩테스트+아카이브;매일+한+문제씩,+꾸준한+기록과+성장" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Java+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%26+%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8+%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C;%EB%A7%A4%EC%9D%BC+%ED%95%9C+%EB%AC%B8%EC%A0%9C%EC%94%A9%2C+%EA%BE%B8%EC%A4%80%ED%95%9C+%EA%B8%B0%EB%A1%9D%EA%B3%BC+%EC%84%B1%EC%9E%A5" alt="Typing SVG" />
   </a>
 
   <!-- 방문자 수 카운터 (Hits 배지) -->
@@ -13,9 +13,9 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGod-Da%2FCodingTest&count_bg=%2300F2FE&title_bg=%231E2A38&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=true" alt="Hits Badge"/>
   </p>
 
-  <!-- 키보드 타자 치는 Bongo Cat GIF -->
+  <!-- 키보드 타자 치는 Bongo Cat (Giphy 직링크) -->
   <p align="center">
-    <img src="https://github.com/God-Da/CodingTest/assets/assets/cat.gif" onerror="this.onerror=null; this.src='https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif';" width="180" alt="Coding Cat"/>
+    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="180" alt="Coding Cat"/>
   </p>
 
   <!-- 테크 뱃지 -->
