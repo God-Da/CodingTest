@@ -1,42 +1,51 @@
 <div align="center">
 
-<!-- 타이핑 효과 헤더 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F686AC&center=true&vCenter=true&width=600&lines=🌱+God-Da's+Coding+Archive;☕+Java+Algorithm+Study;🚀+Step+by+Step,+Level+Up!" alt="Typing SVG" /></a>
+  <!-- 다이나믹 사이버펑크 캡슐 헤더 -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F2FE,100:4FACFE&height=180&section=header&text=⚡%20GOD-DA%20//%20ALGORITHM%20LAB&fontSize=32&fontAlignY=55&desc=SOLVING%20PROBLEMS%20•%20OPTIMIZING%20TIME%20COMPLEXITY&descAlignY=75&descSize=14&stroke=000000&strokeWidth=1" width="100%"/>
 
-<!-- 무지개 구분선 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="500">
+  <br>
 
-<br>
-<p><b>매일매일 꾸준하게 성장하는 코딩테스트 풀이 저장소입니다. 📝✨</b><br>백준허브를 통해 푼 문제들이 자동으로 커밋됩니다.</p>
+  <!-- 터미널 네온 타이핑 애니메이션 -->
+  <a href="https://github.com/God-Da/CodingTest">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=700&height=70&lines=%3E_System.out.println(%22Consistency+builds+the+logic.%22);%3B%3E_Target%3A+Mastering+Data+Structures+%26+Algorithms+with+Java" alt="Typing SVG" />
+  </a>
 
-<!-- 뱃지 (플랫하고 깔끔한 스타일) -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programmers-1E2A38?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/BaekjoonHub-232F3E?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- 하이테크 레이저 라인 -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br><br>
+  <br>
 
-<!-- 스트릭 스탯 (테두리 둥글고 귀여운 Catppuccin 테마 적용) -->
-<img src="https://streak-stats.demolab.com?user=God-Da&theme=catppuccin&hide_border=true&border_radius=15" alt="God-Da's Streak" />
+  <!-- 테크니컬 메탈릭 뱃지 -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/JAVA_21-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PROGRAMMERS-1E2A38?style=for-the-badge&logo=codewars&logoColor=00F2FE"/>
+    <img src="https://img.shields.io/badge/AUTO_SYNC-BAEKJOONHUB-000000?style=for-the-badge&logo=github&logoColor=00F2FE"/>
+    <img src="https://img.shields.io/badge/COMPLEXITY-O(N%20log%20N)-critical?style=for-the-badge&logo=speedtest&logoColor=white"/>
+  </p>
+
+  <br>
+
+  <!-- 듀얼 네온 대시보드 (스트릭 & 활동 통계) -->
+  <h3>📊 SYSTEM STATUS & METRICS</h3>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=God-Da&theme=tokyonight&hide_border=false&border_radius=8&background=0D1117&border=00F2FE&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=God-Da&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&bg_color=0D1117&border_color=00F2FE&icon_color=00F2FE&title_color=00F2FE&text_color=FFFFFF" width="48%" />
+  </p>
+
+  <!-- 잔디밭 히스토리 그래프 (다크 사이버블루 커스텀) -->
+  <p align="center">
+    <img src="https://ghchart.rshah.org/00F2FE/God-Da" alt="God-Da's Commit Matrix" width="97%" />
+  </p>
 
 </div>
 
 <br>
 
-## ✨ My Rule & Routine
-> **"꾸준함이 무기! 알고리즘 근육 키우기 💪"**
+## ⚙️ EXECUTION PROTOCOL
 
-* ⏰ **30분 컷 규칙:** 30분 고민해도 안 풀리면 과감하게 해설 확인하기!
-* 💡 **1일 1커밋:** 최소 하루 한 문제 풀고 감 잃지 않기
-* 📓 **노션 아카이빙:** 새로 알게 된 문법(`getOrDefault` 등)은 노션 치트시트에 꼬박꼬박 기록하기
-* 🔍 **코드 뜯어보기:** 통과 후 '다른 사람의 풀이' 보면서 더 우아한 코드 학습하기
-
-<br>
-
-## 📂 Directory
-```text
-📦 CodingTest
- ┗ 📂 프로그래머스
-    ┣ 🐣 Level 0 (코딩 기초 트레이닝, 자바 문법 워밍업)
-    ┣ 🐥 Level 1 (해시, 스택/큐, 기본 정렬)
-    ┗ 🦅 Level 2 (완전탐색, DFS/BFS 등 핵심 알고리즘)
+```yaml
+rules:
+  time_limit: "MAX 30 MIN -> 해설 코드 아키텍처 및 자료구조 역분석"
+  commit_policy: "1 DAY 1 COMMIT MINIMUM (Consistency > Intensity)"
+  optimization: "O(N^2) -> O(N log N) / O(N) 개선 방안 모색"
+  notion_archive: "Core Snippets & Map/Set/Stream/Math Cheatsheet Sync"
