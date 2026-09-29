@@ -1,17 +1,22 @@
 <div align="center">
 
-  <!-- 헤더 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=God-Da's%20Algorithm%20Lab&fontSize=38&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <!-- 다이나믹 헤더 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=⚡%20GOD-DA'S%20ALGORITHM%20LAB&fontSize=34&fontAlignY=40&animation=fadeIn" width="100%"/>
 
   <!-- 타이핑 효과 문구 -->
   <a href="https://github.com/God-Da/CodingTest">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Java+알고리즘+%26+코딩테스트+아카이브;매일+한+문제씩,+꾸준한+기록과+성장" alt="Typing SVG" />
   </a>
 
-  <!-- 네온 레이저 라인 디바이더 -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <!-- 방문자 수 카운터 (Hits 배지) -->
+  <p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGod-Da%2FCodingTest&count_bg=%2300F2FE&title_bg=%231E2A38&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=true" alt="Hits Badge"/>
+  </p>
 
-  <br><br>
+  <!-- 키보드 타자 치는 Bongo Cat GIF -->
+  <p align="center">
+    <img src="https://github.com/God-Da/CodingTest/assets/assets/cat.gif" onerror="this.onerror=null; this.src='https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif';" width="180" alt="Coding Cat"/>
+  </p>
 
   <!-- 테크 뱃지 -->
   <p align="center">
@@ -20,7 +25,10 @@
     <img src="https://img.shields.io/badge/BaekjoonHub-000000?style=for-the-badge&logo=github&logoColor=00F2FE"/>
   </p>
 
-  <br>
+  <!-- 네온 레이저 라인 디바이더 -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+  <br><br>
 
   <!-- 듀얼 네온 대시보드 (스트릭 & 활동 통계) -->
   <h3>📊 Activity & Streak Matrix</h3>
