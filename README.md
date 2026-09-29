@@ -9,9 +9,9 @@
   </a>
 
   <!-- 방문자 수 카운터 (Hits 배지) -->
-  <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGod-Da%2FCodingTest&count_bg=%2300F2FE&title_bg=%231E2A38&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=true" alt="Hits Badge"/>
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=God-Da-CodingTest&color=00f2fe&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+</p>
 
   <!-- 키보드 타자 치는 Bongo Cat (Giphy 직링크) -->
   <p align="center">
