@@ -4,18 +4,29 @@
   <p><b>Java Core Algorithms & Problem Solving Archive</b></p>
   <p>백준허브를 통해 자동으로 기록되는 알고리즘 트레이닝 저장소입니다.</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Java-17%2B-000000?style=flat-square&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Programmers-Lv.0_%7E_Lv.2-000000?style=flat-square&logo=codewars&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+  <!-- 테크 뱃지 (가로 한 줄) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-17%2B-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Programmers-Lv.0_%7E_Lv.2-1E2A38?style=flat-square&logo=codewars&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sync-BaekjoonHub-brightgreen?style=flat-square&logo=github&logoColor=white"/>
   </p>
 
+  <!-- 키보드 치는 귀여운 고양이 GIF -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/readme/img/cat.gif" width="120" />
+</p>
+
+  <!-- 실시간 스트릭 카드 (Tokyonight 다크 모드) -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=God-Da&theme=tokyonight&hide_border=false&border_radius=8&background=0D1117" alt="Streak" width="450"/>
+  </p>
+
+  <!-- 시안 블루 실시간 잔디밭 (깨짐 없는 안정적인 SVG) -->
+  <p align="center">
+    <img src="https://ghchart.rshah.org/00F2FE/God-Da" alt="Commit Chart" width="95%" />
+  </p>
+  
   <br>
-
-  <!-- 미니멀 깃허브 스트릭 (심플한 다크 모드) -->
-  <img src="https://streak-stats.demolab.com?user=God-Da&theme=dark&hide_border=true&border_radius=10&background=00000000" alt="Streak" width="450"/>
-
-  <br><br>
 </div>
 
 ---
